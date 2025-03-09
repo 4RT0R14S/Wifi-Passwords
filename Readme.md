@@ -21,7 +21,9 @@ python Wi-Fi-Passwords.py
 Saved Wi-Fi Networks:
 - Wi-fi1: MyPassword123
 - Wi-fi2: No password
+
 🚨 Warnings
 This script should only be used on your own system. Using it on a system that you do not own may violate the law.
 Do not share retrieved passwords publicly.
+
 By 4RT0R14S
